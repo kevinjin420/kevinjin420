@@ -4,6 +4,6 @@ Teleoperations Lead @ MRover
 
 Developer Advocate @ Jaseci Labs
 
-Incoming SWE Intern @ TikTok
+SWE Intern @ TikTok
 
-[visit my site!](https://kevinjin.dev/)
+more about me [here!](https://kevinjin.dev/)
