@@ -1,3 +1,5 @@
+FOSS enjoyer, loonix user
+
 Computer Engineering @ UofM
 
 Teleoperations Lead @ MRover
