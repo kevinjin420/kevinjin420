@@ -2,7 +2,7 @@ FOSS enjoyer, loonix user
 
 Computer Engineering @ UofM
 
-Teleoperations Lead @ MRover
+SWE @umrover
 
 Developer Advocate @ Jaseci Labs
 
